@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RqZen
 - 👀 I’m interested in Programming/game developing
-- 🌱 I’m currently learning javaand a little bit Python
+- 🌱 I’m currently learning java and a little bit Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord(RqZen#0001) Twitter(RqZen_)
 
