@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RqZen
+- 👋 Hi, I’m @Basti
 - 👀 I’m interested in Programming/game developing
-- 🌱 I’m currently learning java and a little bit Python
+- 🌱 I’m currently learning python and a little bit Java(mostly bcs of scool)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord(RqZen#0001) Twitter(RqZen_)
 
