@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Basti
+- 👋 Hi, I’m @dyognez
 - 👀 I’m interested in Programming/game developing
 - 🌱 I’m currently learning python and a little bit Java(mostly bcs of scool)
 - 💞️ I’m looking to collaborate on ...
